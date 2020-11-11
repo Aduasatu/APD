@@ -38,7 +38,7 @@ def ruang_bawah():
 
         else :
             print ("Sandi Anda salah")
-            if i == 3:
+            if i == 2:
                 print("Terlalu Banyak Mencoba")
                 print("Buatlah Kembali Bio Anda")
                 time.sleep(1)
@@ -167,7 +167,7 @@ def ruang_atas():
 
         else :
             print ("Sandi Anda salah")
-            if i == 3:
+            if i == 2:
                 print("Terlalu Banyak Mencoba")
                 print("Buatlah Kembali Bio Anda")
                 time.sleep(2)
